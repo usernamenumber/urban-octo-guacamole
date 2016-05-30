@@ -1,0 +1,3 @@
+notebook
+python-igraph
+jgraph
