@@ -1,3 +1,4 @@
 notebook
 python-igraph
 jgraph
+nbconvert
