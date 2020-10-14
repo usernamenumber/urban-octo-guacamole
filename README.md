@@ -1,6 +1,6 @@
 # urban-octo-guacamole
 *(the name means nothing; github suggested it and it was too good to not use)*
 
-An extension of the work I've been doing on pathfinding within learning maps, combined with work done at Akamai on automatic generation of learning goals (map destinations) based on a list of desired skills.  
+An extension of the work I've been doing on pathfinding within learning maps (c.f. [here](https://github.com/usernamenumber/SwagmapGenerator)), combined with work done at Akamai on automatic generation of learning goals (map destinations) based on a list of desired skills.  
 
-For best results, clone and then view the slides with `nbconvert --to slides --post serve OctoGuac.ipynb`, though the slides are still intended to accompany a live presentation. For now they're mostly here for me so I can build them into something friendlier later.
+For best results, clone and then view the slides with `nbconvert --to slides --post serve OctoGuac.ipynb`, though the slides are still intended to accompany a live presentation. For now they're mostly here for me so I can build them into something friendlier later. You can also read the notebook [as rendered by GitHub](https://render.githubusercontent.com/view/ipynb?commit=49ed0e3540b76a375116e979b6514bce18b6169d&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f757365726e616d656e756d6265722f757262616e2d6f63746f2d67756163616d6f6c652f343965643065333534306237366133373531313665393739623635313462636531386236313639642f4f63746f477561632e6970796e62&nwo=usernamenumber%2Furban-octo-guacamole&path=OctoGuac.ipynb&repository_id=59977878&repository_type=Repository#Automated-discovery-of-learning-paths-and-goals), but it will be less coherent. 
